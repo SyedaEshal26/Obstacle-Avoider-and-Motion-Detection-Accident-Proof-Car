@@ -14,8 +14,8 @@ This project implements an Arduino-based smart car that avoids obstacles and sto
 ### **Obstacle Avoider Car**
 
 ```
-Obstacle-Avoider-Car/
-├── obstacle_avoider.ino
+Obstacle-Avoider-and-Motion-Detection-Accident-Proof-Car/
+├── rob_car.ino
 ├── README.md
 └── components_list.txt
 ```
@@ -130,4 +130,5 @@ cd Obstacle-Avoider-and-Motion-Detection-Accident-Proof-Car
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ---
+
 
